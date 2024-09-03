@@ -1,0 +1,10 @@
+
+print("\033[31m=== Who are you at work? ===\033[0m")
+print()
+name = input("What is your name? ")
+enemy = input("What is your worst enemy in office? ")
+work = input("What work do you do? ")
+superpower = input("What is your superpower? ")
+lunch = input("What do you eat for lunch usually? ")
+print()
+print("Hello", "\033[31m", name, "\033[0m","! Your amazing" , superpower, "will help you in your carier and your", enemy, "at work will envy you! Go eat", lunch, "which you so like and enjoy your best", work, "\033[31m", "in the world!" )
