@@ -20,7 +20,7 @@ ul {
   font-family: sans-serif;
   background-color: #1c2333;
   padding: 20px;
-  
+
 }
 
 p {
@@ -34,4 +34,9 @@ img {
   background-color: #1c2333;
   padding: 20px;
   display:block;
+}
+
+a {
+  color: hotpink;
+  text-decoration: none;
 }
