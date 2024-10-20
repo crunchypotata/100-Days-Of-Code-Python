@@ -1,0 +1,41 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: #0e1525;
+  color: #cdd6e9;
+}
+
+h1, h2 {
+  font-family: monospace;
+  font-weight: regular;
+  font-size: 30px;
+}
+
+h2 {
+  font-size: 22px;
+}
+
+ul {
+  font-family: sans-serif;
+  background-color: #1c2333;
+  padding: 20px;
+
+}
+
+p {
+  font-size: 14px;
+  font-family: sans-serif;
+  background-color: #1c2333;
+  padding: 20px;
+}
+
+img {
+  background-color: #1c2333;
+  padding: 20px;
+  display:block;
+}
+
+a {
+  color: hotpink;
+  text-decoration: none;
+}
