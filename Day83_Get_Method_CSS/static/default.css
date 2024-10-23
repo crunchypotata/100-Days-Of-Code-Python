@@ -1,0 +1,12 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: #5071be;
+  color: #cdd6e9;
+}
+
+h1, h2 {
+  font-family: monospace;
+  font-weight: regular;
+  font-size: 30px;
+}
