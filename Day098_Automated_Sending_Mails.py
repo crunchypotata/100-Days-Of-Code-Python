@@ -27,10 +27,6 @@ def sendMail(quote):
     s.send_message(msg)
     del msg
 
-# def printMe():
-#     print("Sending reminder")
-#     sendMail()
-
 schedule.every(24).hours.do(sendMail)
 
 while True:
